@@ -1,5 +1,10 @@
-### Hi there 👋
-
+<p align="center">Hey there! 😃</p>
+<p align="center">Welcome to my page! </br> <i>I'm Linet, a Programmer and Researcher 
+  </br>currently exploring the world of ML and CV, one research paper at a time.</i>
+</br></br></p>
+<p align="center"><b>Current Research Areas</b>: Computer Vision, Machine Learning and NLP
+Also looking at: Multi-modal systems 
+</p>
 
 
 ## Technology Stack
@@ -21,18 +26,4 @@ Github Stats
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=preshmalinetpereira&layout=compact&exclude_repo=SSDDShipDetection&hide=java,Objective-c&theme=dracula">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preshmalinetpereira&layout=compact&exclude_repo=SSDDShipDetection&hide=java,Objective-c&theme=dracula" />
 </a>
--->
-<!--
-**preshmalinetpereira/preshmalinetpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
