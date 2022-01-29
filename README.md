@@ -1,8 +1,15 @@
 ### Hi there 👋
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=preshmalinetpereira&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=preshmalinetpereira&show_icons=true&theme=radical" />
+<!--
+Github Stats
+
+<a href="https://github-readme-stats.vercel.app/api?username=preshmalinetpereira&show_icons=true&theme=radical&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=preshmalinetpereira&show_icons=true&theme=radical&count_private=true&hide=contribs,prs" />
+</a>
+-->
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=preshmalinetpereira&layout=compact&exclude_repo=SSDDShipDetection&hide=java,Objective-c">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preshmalinetpereira&layout=compact&exclude_repo=SSDDShipDetection&hide=java,Objective-c" />
 </a>
 
 <!--
