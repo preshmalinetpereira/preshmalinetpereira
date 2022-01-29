@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+<a href="https://github-readme-stats.vercel.app/api?username=preshmalinetpereira&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=preshmalinetpereira&show_icons=true&theme=radical" />
+</a>
+
 <!--
 **preshmalinetpereira/preshmalinetpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
